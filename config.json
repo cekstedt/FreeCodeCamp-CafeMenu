@@ -1,0 +1,11 @@
+{
+  "name": "Cafe Menu",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-CafeMenu",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/",
+  "hosted": "https://lucky-conkies-c8e924.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css"]
+}
