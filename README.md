@@ -18,7 +18,7 @@ This is a solution to the [Learn Basic CSS by Building a Cafe Menu](https://www.
 
 ### The challenge
 
-In this project, you'll see how adding CSS styles to the elements of your application can change it from simple text to something more.
+"In this project, you'll see how adding CSS styles to the elements of your application can change it from simple text to something more."
 
 ### Screenshot
 
