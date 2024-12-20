@@ -10,7 +10,7 @@ This is a solution to the [Introduction to the Learn Basic CSS by Building a Caf
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [How to install & run](how-to-install-&-run)
+  - [How to install and run](how-to-install-and-run)
 - [Author](#author)
 - [License](#license)
 
@@ -37,7 +37,7 @@ In this project, you'll see how adding CSS styles to the elements of your applic
 - Semantic HTML
 - CSS
 
-### How to install & run
+### How to install and run
 
 This project is HTML & CSS only, so simply clone the repo then open `src/index.html` in your browser.
 
