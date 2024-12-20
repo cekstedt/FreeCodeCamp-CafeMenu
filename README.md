@@ -1,6 +1,6 @@
 # FreeCodeCamp - Building a Cafe Menu solution
 
-This is a solution to the [Introduction to the Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
+This is a solution to the [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ## Table of contents
 
