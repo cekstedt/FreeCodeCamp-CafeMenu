@@ -10,7 +10,7 @@ This is a solution to the [Introduction to the Learn Basic CSS by Building a Caf
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [How to install and run](how-to-install-and-run)
+  - [How to install and run](#how-to-install-and-run)
 - [Author](#author)
 - [License](#license)
 
